@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SAM0619TJ
-- a green hand Programmer
-- Only learn can enrichs my empty life.
-- My Englishis is not really good.
+- 👋 开心过好每一天就是对自己最好的奖赏
+- 
 
 <!---
 SAM0619TJ/SAM0619TJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
