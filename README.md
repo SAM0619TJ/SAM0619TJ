@@ -7,9 +7,10 @@ ____
 
 <div align="center">
 
-  <a href="https://readme-typing-svg.demolab.com">
+  <!-- <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Talk is cheap . Show me the code." alt="Typing SVG" />
-  </a>
+  </a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" /></a>
 
   </br>
 
@@ -32,8 +33,9 @@ ____
 
 - 深入学习计算机图形学，研究 Shader 与渲染管线
 - 专注 GPU 并行计算与高性能优化
-- 开心过好每一天就是对自己最好的奖赏
 - 计算机视觉识别有所涉猎
+- 开心过好每一天就是对自己最好的奖赏
+
 
 ---
 
