@@ -1,9 +1,8 @@
 ### Hi there 👋
-
-    Welcome To Visist My Space
+ 
+### Welcome To Visist My Space
 ____
 
------
 
 <div align="center">
 
@@ -33,7 +32,7 @@ ____
 
 - 深入学习计算机图形学，研究 Shader 与渲染管线
 - 专注 GPU 并行计算与高性能优化
-- 计算机视觉识别有所涉猎
+- 想要成为深度学习和计算机视觉糕手
 - 开心过好每一天就是对自己最好的奖赏
 
 
